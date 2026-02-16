@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Principal {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        metodos m = new metodos();
+        Metodos m = new Metodos();
         int n = 0;
 
         System.out.println("Ingrese la dimension del patio: ");

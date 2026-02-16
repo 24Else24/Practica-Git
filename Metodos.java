@@ -1,7 +1,5 @@
+import java.util.Scanner;
 public class Metodos {
-    import java.util.Scanner;
-
-public class metodos {
     Scanner sc = new Scanner(System.in);
 
     public objVehiculo [] LlenarRegistros(objVehiculo[] r)
@@ -47,4 +45,4 @@ public class metodos {
         }
     }
 }
-}
+
